@@ -8,10 +8,14 @@
 uma calculadora que não usa nem um tipo de I.A ou rede neural apenas em linguagem bruta!
 link: https://github.com/PHGS971/CALCULADORA-LUA/tree/main
 
-Pull requests:
+Pull requests: https://github.com/PHGS971/CALCULADORA-LUA/pulls
 
-Issues:
+Issues: https://github.com/PHGS971/CALCULADORA-LUA/issues
 
 view source: view-source:https://github.com/PHGS971/CALCULADORA-LUA/tree/main
 
 ---
+
+
+é isto por enquanto 
+views:
