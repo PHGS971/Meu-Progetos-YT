@@ -18,4 +18,5 @@ view source: view-source:https://github.com/PHGS971/CALCULADORA-LUA/tree/main
 
 
 é isto por enquanto 
-views:
+
+views: ![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=PHGS971.Meu-Progetos-YT)
